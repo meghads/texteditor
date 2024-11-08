@@ -5,7 +5,6 @@ This project implements a basic text editor using a stack data structure in C. I
 Features:
 
 * Edit text using basic typing commands.
-* Undo and redo functionality using a stack.
 * View current text and cursor position.
 
 Requirements:
